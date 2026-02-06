@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Remembrance",
+  "base_artist": "MYTH & ROID",
+  "createdAt": "2026-02-06T11:13:26.216069Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Act of Remembrance",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/01_Act_of_Remembrance_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "In Remembrance",
+      "artist": "Therion",
+      "has_synced": true,
+      "path": "select/02_In_Remembrance_Therion.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In Remembrance",
+      "artist": "Therion",
+      "has_synced": true,
+      "path": "select/03_In_Remembrance_Therion.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Remembrance Day",
+      "artist": "Big Country",
+      "has_synced": false,
+      "path": "select/04_Remembrance_Day_Big_Country.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Remembrance",
+      "artist": "Bolt Thrower",
+      "has_synced": true,
+      "path": "select/05_Remembrance_Bolt_Thrower.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Remembrance of Things Past",
+      "artist": "Ved Buens Ende",
+      "has_synced": false,
+      "path": "select/06_Remembrance_of_Things_Past_Ved_Buens_Ende.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Remembrance",
+      "artist": "Before the Dawn",
+      "has_synced": true,
+      "path": "select/07_Remembrance_Before_the_Dawn.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Remembrance",
+      "artist": "Paradise Lost",
+      "has_synced": false,
+      "path": "select/08_Remembrance_Paradise_Lost.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Remembrance (Live at Shepherd's Bush Empire, London)",
+      "artist": "Paradise Lost",
+      "has_synced": false,
+      "path": "select/09_Remembrance_(Live_at_Shepherd's_Bush_Empire,_London)_Paradise_Lost.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "In Remembrance",
+      "artist": "Xandria",
+      "has_synced": true,
+      "path": "select/10_In_Remembrance_Xandria.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Remembrance Day",
+      "artist": "DragonForce",
+      "has_synced": false,
+      "path": "select/11_Remembrance_Day_DragonForce.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Remembrance Ballad",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/12_The_Remembrance_Ballad_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Remembrance Ballad",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/13_The_Remembrance_Ballad_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Garden Of Remembrance",
+      "artist": "Fish",
+      "has_synced": false,
+      "path": "select/14_Garden_Of_Remembrance_Fish.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Remembrance",
+      "artist": "MYTH & ROID",
+      "has_synced": false,
+      "path": "select/pl_01_Remembrance_MYTH_&_ROID.txt"
+    }
+  ]
+}
