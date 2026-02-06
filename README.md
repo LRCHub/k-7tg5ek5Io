@@ -1,0 +1,33 @@
+# MYTH & ROID – Remembrance
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Those who fought, gave their all,
+gone with no trace
+In the night,
+do they dream of peaceful days with loved ones?
+全て熱は消え去った 人のものも 火のものも
+荒れ果てた その墓標に寄せ
+花手向ける 友さえもういない
+Still with us
+Feel the calling out to you
+痛み嘆きも 今はもう無に帰す
+It's a soundless calling out to you
+微か漂う 悲しみの残り香
+思い出の日 悼むことさえも
+亡き人らを 癒やし切れるものか
+Still wandering
+Chase the memory of you
+その意味問えば 無情に落ちてく
+It's a touchless memory of you
+打ちひしがれて 静かに忘れればいい
+荒野にはやがて花が芽吹き咲くけれど
+繰り返す運命(さだめ)を連れたまま
+You're feeling the calling out to you
+痛み嘆きも 今はもう無に帰す
+It's a soundless calling out to you
+微か漂う 悲しみの残り香
+Feel the calling out to you uh...
+Soundless calling out to you uh...
+```
